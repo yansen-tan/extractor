@@ -1,0 +1,451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"encrypted",
+				"encryptedIVAndText"
+			],
+			[
+				"channel_admin",
+				"channel_admin_charge"
+			],
+			[
+				"biller_adi",
+				"biller_admin_charge"
+			],
+			[
+				"transa",
+				"transaction"
+			],
+			[
+				"inp",
+				"input-group"
+			],
+			[
+				"apply",
+				"applyCancellationFeeAfter"
+			],
+			[
+				"cancel",
+				"cancellationFeeRate"
+			],
+			[
+				"cancell",
+				"cancellation_fee_rate"
+			],
+			[
+				"conf",
+				"configurations"
+			],
+			[
+				"merchant",
+				"merchant_admin_fee"
+			],
+			[
+				"adm",
+				"admin_charge"
+			],
+			[
+				"tra",
+				"transaction_date"
+			],
+			[
+				"transac",
+				"transaction_date"
+			],
+			[
+				"partner_",
+				"partner_admin_fee"
+			],
+			[
+				"partner",
+				"partnerAdminFeeHistory"
+			],
+			[
+				"transaction",
+				"transaction_amount"
+			],
+			[
+				"channel",
+				"channel_code"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"populate",
+				"populateLenderDisbursement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "extractor.js",
+			"settings":
+			{
+				"buffer_size": 2414,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "credential.json",
+			"settings":
+			{
+				"buffer_size": 89,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/yansen/projects/crypto/extractor.js",
+		"/Users/yansen/projects/crypto/KredivoDecrypt.java",
+		"/Users/yansen/projects/crypto/KredivoEncrypt.java",
+		"/Users/yansen/projects/trex-front/app/views/directive/biller-table.html",
+		"/Users/yansen/projects/trex-front/app/scripts/directives/billertable.js",
+		"/Users/yansen/projects/trex-api/api/models/Transaction.js",
+		"/Users/yansen/projects/trex-front/server/config.js",
+		"/Users/yansen/projects/trex-front/app/views/partial/biller-setting.html",
+		"/Users/yansen/projects/trex-front/app/scripts/controllers/billersetting.js",
+		"/Users/yansen/projects/trex-front/.gitignore",
+		"/Users/yansen/projects/trex-front/server/server.js",
+		"/Users/yansen/projects/trex-front/server/env/staging.js",
+		"/Users/yansen/projects/trex-front/app/views/partial/stores-setting.html",
+		"/Users/yansen/projects/trex-api/config/migration.json",
+		"/Users/yansen/projects/trex-api/api/services/UtilityService.js",
+		"/Users/yansen/projects/trex-api/api/models/MerchantConfiguration.js",
+		"/Users/yansen/projects/trex-api/config/connections.js",
+		"/Users/yansen/projects/trex-front/app/scripts/controllers/storeconfig.js",
+		"/Users/yansen/projects/trex-api/migrations/20180314114222-add-cancellation-fee-columns.js",
+		"/Users/yansen/projects/trex-api/api/controllers/MerchantPaymentController.js",
+		"/Users/yansen/projects/trex-api/api/controllers/MerchantConfigurationController.js",
+		"/Users/yansen/projects/trex-front/app/views/directive/payment-table.html",
+		"/Users/yansen/projects/trex-front/app/views/modal/trx-detail.html",
+		"/Users/yansen/projects/trex-front/app/scripts/directives/paymenttable.js",
+		"/Users/yansen/projects/trex-front/app/index.html",
+		"/Users/yansen/projects/trex-front/bower.json",
+		"/Users/yansen/projects/trex-api/api/models/LenderDisbursement.js",
+		"/Users/yansen/projects/trex-api/api/controllers/LenderDisbursementController.js",
+		"/Users/yansen/projects/trex-api/tasks/register/custom-lender.js",
+		"/Users/yansen/projects/trex-front/app/views/directive/history-table.html",
+		"/Users/yansen/projects/trex-api/api/models/MerchantPaymentCycle.js",
+		"/Users/yansen/projects/trex-front/app/scripts/controllers/trxdetailmodal.js",
+		"/Users/yansen/projects/trex-front/app/scripts/services/trx.js",
+		"/Users/yansen/projects/trex-front/app/scripts/directives/historytable.js",
+		"/Users/yansen/projects/trex-front/app/scripts/controllers/payment.js",
+		"/Users/yansen/projects/trex-front/server/route.js",
+		"/Users/yansen/projects/trex-front/app/scripts/services/billertransaction.js",
+		"/Users/yansen/projects/trex-api/app.js",
+		"/Users/yansen/projects/trex-front/app/scripts/controllers/history.js",
+		"/Users/yansen/projects/trex-front/app/scripts/route.js",
+		"/Users/yansen/projects/trex-api/config/trex.js",
+		"/Users/yansen/projects/trex-api/api/models/LenderTransactionMap.js",
+		"/Users/yansen/projects/trex-front/app/scripts/directives/formpaymentadjustment.js",
+		"/Users/yansen/projects/trex-front/dist/index.html",
+		"/Users/yansen/projects/trex-front/app/views/directive/sidebar.html",
+		"/Users/yansen/projects/trex-front/app/views/partial/biller.html",
+		"/Users/yansen/projects/trex-front/app/scripts/services/billerconfig.js",
+		"/Users/yansen/projects/trex-front/.tmp/concat/scripts/scripts.js",
+		"/Users/yansen/projects/trex-front/app/scripts/directives/lenderhistorytable.js",
+		"/Users/yansen/projects/trex-front/app/scripts/directives/personalloanhistorytable.js",
+		"/Users/yansen/projects/trex-front/app/views/directive/lender-history-table.html",
+		"/Users/yansen/projects/trex-front/app/views/modal/balance-history.html",
+		"/Users/yansen/projects/trex-front/app/scripts/controllers/balancehistorymodal.js",
+		"/Users/yansen/projects/trex-front/app/scripts/services/billerbalancehistory.js",
+		"/Users/yansen/projects/trex-front/app/styles/main.css",
+		"/Users/yansen/projects/trex-front/app/scripts/services/merchant.js",
+		"/Users/yansen/projects/trex-front/package.json",
+		"/Users/yansen/projects/trex-front/server/env/config.js",
+		"/Users/yansen/projects/trex-front/app/views/directive/header.html",
+		"/Users/yansen/projects/trex-front/app/scripts/controllers/biller.js",
+		"/Users/yansen/projects/trex-api/api/controllers/PersonalLoanController.js",
+		"/Users/yansen/projects/trex-api/api/controllers/UserDisbursementController.js",
+		"/Users/yansen/projects/trex-front/app/views/partial/lender.html",
+		"/Users/yansen/projects/trex-api/config/env/development.js",
+		"/Users/yansen/projects/trex-api/config/env/live.js",
+		"/Users/yansen/projects/trex-front/app/scripts/controllers/trxlendermodal.js",
+		"/Users/yansen/projects/trex-front/app/scripts/app.js",
+		"/Users/yansen/projects/trex-front/app/views/directive/lender-table.html",
+		"/Users/yansen/projects/trex-front/app/scripts/services/lender.js",
+		"/Users/yansen/projects/trex-front/app/scripts/directives/lendertable.js",
+		"/Users/yansen/projects/trex-front/app/scripts/directives/trxlendermodal.js",
+		"/Users/yansen/projects/trex-front/bower_components/angular-bootstrap/ui-bootstrap-tpls.js",
+		"/Users/yansen/projects/trex-api/api/models/LenderConfiguration.js",
+		"/Users/yansen/projects/trex-api/migrations/20180111083813-addLenderPrefix.js",
+		"/Users/yansen/projects/trex-api/api/models/MerchantPromotionMDR.js",
+		"/Users/yansen/projects/trex-api/tasks/register/custom-reconcile.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"document.body.scrollHeight"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "extractor.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1987,
+								1987
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 551.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "credential.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cow",
+				"~/projects/sublime-setting/cow.sublime-project"
+			],
+			[
+				"komodo",
+				"~/projects/sublime-setting/komodo.sublime-project"
+			],
+			[
+				"merchant",
+				"~/projects/sublime-setting/merchant-dashboard.sublime-project"
+			],
+			[
+				"cat",
+				"~/projects/sublime-setting/cat.sublime-project"
+			],
+			[
+				"trex",
+				"~/projects/sublime-setting/trex.sublime-project"
+			],
+			[
+				"komod",
+				"~/projects/sublime-setting/komodo.sublime-project"
+			],
+			[
+				"webapp",
+				"~/projects/sublime-setting/webapp.sublime-project"
+			],
+			[
+				"weba",
+				"~/projects/sublime-setting/webapp.sublime-project"
+			],
+			[
+				"mer",
+				"~/projects/sublime-setting/merchant-dashboard.sublime-project"
+			],
+			[
+				"  ow",
+				"~/projects/sublime-setting/cow.sublime-project"
+			],
+			[
+				"turtle",
+				"~/projects/sublime-setting/turtle.sublime-project"
+			],
+			[
+				"",
+				"~/projects/sublime-setting/node-processor.sublime-project"
+			],
+			[
+				"node",
+				"~/projects/sublime-setting/node-processor.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
