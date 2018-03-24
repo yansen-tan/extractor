@@ -1,3 +1,4 @@
+require('dotenv').config();
 const puppeteer = require('puppeteer');
 const credential = require('./credential');
 const url = require('url');
@@ -7,7 +8,7 @@ const fs = require('fs');
 const USERNAME_SELECTOR = 'input#email';
 const PASSWORD_SELECTOR = 'input#pass';
 const LOGIN_SELECTOR = 'button#loginbutton';
-const URL_TO_EXTRACT = 'https://www.facebook.com/groups/1866789183611049/members';
+const URL_TO_EXTRACT = process.env.URL_TO_EXTRACT;
 
 async function scrollWholePage(page, scrollDelay = 3000) {
 	try {
@@ -24,7 +25,7 @@ async function scrollWholePage(page, scrollDelay = 3000) {
 			console.log('Previous Height', previousHeight);
 		}
 	} catch(e) { 
-		console.log(e) 
+		throw new Error(e);
 	}
 }
 
